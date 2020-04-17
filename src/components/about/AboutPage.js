@@ -1,5 +1,5 @@
 import React from "react";
-
+//TODO: ADD MORE STYLING TO THIS PAGE
 const AboutPage = () => (
   <div>
     <h2>About</h2>
